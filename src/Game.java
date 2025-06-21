@@ -19,8 +19,6 @@ public class Game {
             allowedCharacters.add(character);
         }
 
-        System.out.println(allowedCharacters);
-
         Sequence sequence = new Sequence();
         Commands commands = new Commands();
 
